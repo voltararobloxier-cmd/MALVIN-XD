@@ -17,7 +17,6 @@
     "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",
     "@google/genai": "^1.8.0",
     "@google/generative-ai": "^0.24.1",
-    "@vitalets/google-translate-api": "^9.0.0",
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
