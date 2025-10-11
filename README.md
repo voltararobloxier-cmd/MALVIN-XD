@@ -73,6 +73,11 @@ Authenticate using the *web button* below to generate your `Session ID`.
 [![Access Web Portal](https://img.shields.io/badge/🚀_Access_Web_Portal-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://malvin-xd-pair-web.vercel.app)
 
 
+> fast Authentication
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://starcore-pair.vercel.app/)
+
+
 </div>
 <!-- Glowing Header -->
 <p align="center">
